@@ -38,8 +38,6 @@ git clone https://github.com/govind-tech/AI-Resume-Analyzer
 cd AI-Resume-Analyzer
 ```
 
-Replace `https://github.com/govind-tech/AI-Resume-Analyzer` with your actual repository URL.
-
 ### 2. Create a virtual environment
 
 ```bash
