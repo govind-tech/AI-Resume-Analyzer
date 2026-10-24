@@ -2,6 +2,10 @@
 
 A Python-based web application that analyzes a resume in PDF format and compares its technical skills with a job description.
 
+## Application Preview
+
+![AI Resume Analyzer screenshot](resume-analyzer-screenshot.png)
+
 ## Features
 
 - Upload a resume in PDF format.
